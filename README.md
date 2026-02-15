@@ -13,4 +13,38 @@ Portfolio variance
 Efficient frontier
 Optimal asset allocation
 
-The objective is to demonstrate quantitative finance skills, numerical optimization, and practical implementation of portfolio theory.
+🎯 Problem Statement
+
+Investors need to allocate capital across multiple assets in a way that:
+- Maximizes expected return
+- Minimizes portfolio risk
+- Achieves optimal risk-adjusted performance
+
+🛠 Technical Implementation
+
+The model is built in Python using:
+- numpy – numerical computation
+- scipy.optimize – constrained optimization
+- MATLAB – visualization
+
+Key components include:
+- Calculation of expected asset returns
+- Construction of covariance matrix
+- Efficient frontier simulation
+- Sharpe ratio maximization
+- Optimal portfolio weight allocation
+
+📈 Key Outputs
+- Efficient Frontier visualization
+- Maximum Sharpe Ratio portfolio
+- Minimum Variance portfolio
+- Optimal asset weights
+
+The results demonstrate how risk-return trade-offs can be quantified and optimized using computational finance techniques.
+
+🧠 Concepts Applied
+- Modern Portfolio Theory (Harry Markowitz)
+- Risk-return tradeoff
+- Sharpe Ratio
+- Constrained nonlinear optimization
+- Matrix algebra for financial modeling
