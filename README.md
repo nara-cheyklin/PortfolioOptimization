@@ -25,7 +25,7 @@ Investors need to allocate capital across multiple assets in a way that:
 The model is built in Python using:
 - numpy – numerical computation
 - scipy.optimize – constrained optimization
-- MATLAB – visualization
+- MATLAB – alternative tool for calculation and visualization
 
 Key components include:
 - Calculation of expected asset returns
@@ -48,3 +48,6 @@ The results demonstrate how risk-return trade-offs can be quantified and optimiz
 - Sharpe Ratio
 - Constrained nonlinear optimization
 - Matrix algebra for financial modeling
+
+Efficient Frontier
+![Efficient Frontier](image/Efficient_Frontier.png)
